@@ -1,0 +1,95 @@
+# מכבי קולה — Generative Engine Optimization Map
+
+> Maccabi Cola is a football club with a full official squad roster including numbered players and positions. The club has a rich identity with trivia about its history (first captain, first player, first win). The website needs to be bold, innovative, red and black themed, featuring a squad page, management staff page, subscriptions (Regular/Pro/VIP) with fake currency ticket purchases, upcoming matches schedule, a trivia quiz section with multiple-choice questions about club history, and a fun player roulette feature that randomly selects a squad member and displays a shirt prize message. The brand has a playful, fan-engagement-focused personality with gamification elements.
+
+---
+
+## Pages
+
+### בית
+https://-e36be8ec.zappy5.app
+מכבי קולה מזמינה אתכם לעולם של כדורגל, תשוקה וגאווה. גלו את הסגל הרשמי, רכשו מנוי VIP והבטיחו מקום ביציע. החוויה מתחילה כאן!
+
+### סגל
+https://-e36be8ec.zappy5.app/squad
+סגל מכבי קולה 2025 נחשף! עיינו ברשימת השחקנים המלאה עם מספרים ותפקידים. מי יוביל אותנו לניצחון הבא? היכנסו וגלו את הכוכבים.
+
+### צוות ניהולי
+https://-e36be8ec.zappy5.app/management
+צוות הניהול של מכבי קולה חושף את האסטרטגיה. הכירו את המאמנים, המנהלים והקפטן הראשון שעשו היסטוריה. הצצה נדירה לחדר ההלבשה!
+
+### חברויות וחנות
+https://-e36be8ec.zappy5.app/memberships-store
+בחרו חבילת מנוי Regular, Pro או VIP במכבי קולה והבטיחו כרטיס למשחקים הקרובים. חוויית צפייה משודרגת במטבעות וירטואליים. קנו עכשיו!
+
+### משחקים קרובים
+https://-e36be8ec.zappy5.app/matches
+כל המשחקים הקרובים של מכבי קולה במקום אחד! תאריכים, יריבות וטיפים לניצחון. אל תפספסו אף בעיטה — בדקו את הסגל והזמינו כרטיסים עוד היום.
+
+### טריוויה ורולטה
+https://-e36be8ec.zappy5.app/trivia-roulette
+אתגר הטריוויה ורולטת השחקנים של מכבי קולה מחכים לכם! ענו על שאלות היסטוריה, גלגלו שחקן אקראי וזכו בפרס חולצה מפתיע. שחקו והרגישו את האדרנלין!
+
+### צור קשר
+https://-e36be8ec.zappy5.app/contact
+יש לכם שאלה על מנויים, משחקים או סגל מכבי קולה? צרו קשר עם הצוות שלנו וקבלו מענה מהיר. אנחנו כאן בשביל האוהדים — השאירו פרטים ונחזור אליכם!
+
+### תודה רבה - פנייתך התקבלה | מכבי קולה
+https://-e36be8ec.zappy5.app/thank-you
+תודה רבה על פנייתך. צוות מכבי קולה קיבל את ההודעה ויחזור אליך בהקדם. ניתן להמשיך לגלוש באתר למידע על מכבי קולה כרטיסי מנוי ומשחקים קרובים.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e36be8ec.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e36be8ec.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e36be8ec.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e36be8ec.zappy5.app/management
+- Endpoint: https://-e36be8ec.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מכבי קולה
+Maccabi Cola is a football club with a full official squad roster including numbered players and positions. The club has a rich identity with trivia about its history (first captain, first player, first win). The website needs to be bold, innovative, red and black themed, featuring a squad page, management staff page, subscriptions (Regular/Pro/VIP) with fake currency ticket purchases, upcoming matches schedule, a trivia quiz section with multiple-choice questions about club history, and a fun player roulette feature that randomly selects a squad member and displays a shirt prize message. The brand has a playful, fan-engagement-focused personality with gamification elements.
+
+## Target Audience
+- אוהדי מכבי קולה, שחקנים, מנויים
+- אוהדי מכבי קולה
+- שחקנים שאפתנים
+- מנויים נאמנים
+
+## Industry
+Sports Club
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e36be8ec.zappy5.app/sitemap.xml
+- Robots: https://-e36be8ec.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e36be8ec.zappy5.app/llms-full.txt
