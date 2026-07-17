@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://example.com
+https://maccabi-cola.zappy5.app
 מכבי קולה מזמינה אתכם לעולם של כדורגל, תשוקה וגאווה. גלו את הסגל הרשמי, רכשו מנוי VIP והבטיחו מקום ביציע. החוויה מתחילה כאן!
 
 ### סגל
-https://example.com/squad
+https://maccabi-cola.zappy5.app/squad
 סגל מכבי קולה 2025 נחשף! עיינו ברשימת השחקנים המלאה עם מספרים ותפקידים. מי יוביל אותנו לניצחון הבא? היכנסו וגלו את הכוכבים.
 
 ### צוות ניהולי
-https://example.com/management
+https://maccabi-cola.zappy5.app/management
 צוות הניהול של מכבי קולה חושף את האסטרטגיה. הכירו את המאמנים, המנהלים והקפטן הראשון שעשו היסטוריה. הצצה נדירה לחדר ההלבשה!
 
 ### חברויות וחנות
-https://example.com/memberships-store
+https://maccabi-cola.zappy5.app/memberships-store
 בחרו חבילת מנוי Regular, Pro או VIP במכבי קולה והבטיחו כרטיס למשחקים הקרובים. חוויית צפייה משודרגת במטבעות וירטואליים. קנו עכשיו!
 
 ### משחקים קרובים
-https://example.com/matches
+https://maccabi-cola.zappy5.app/matches
 כל המשחקים הקרובים של מכבי קולה במקום אחד! תאריכים, יריבות וטיפים לניצחון. אל תפספסו אף בעיטה — בדקו את הסגל והזמינו כרטיסים עוד היום.
 
 ### טריוויה ורולטה
-https://example.com/trivia-roulette
+https://maccabi-cola.zappy5.app/trivia-roulette
 אתגר הטריוויה ורולטת השחקנים של מכבי קולה מחכים לכם! ענו על שאלות היסטוריה, גלגלו שחקן אקראי וזכו בפרס חולצה מפתיע. שחקו והרגישו את האדרנלין!
 
 ### צור קשר
-https://example.com/contact
+https://maccabi-cola.zappy5.app/contact
 יש לכם שאלה על מנויים, משחקים או סגל מכבי קולה? צרו קשר עם הצוות שלנו וקבלו מענה מהיר. אנחנו כאן בשביל האוהדים — השאירו פרטים ונחזור אליכם!
 
 ### תודה רבה - פנייתך התקבלה | מכבי קולה
-https://example.com/thank-you
+https://maccabi-cola.zappy5.app/thank-you
 תודה רבה על פנייתך. צוות מכבי קולה קיבל את ההודעה ויחזור אליך בהקדם. ניתן להמשיך לגלוש באתר למידע על מכבי קולה כרטיסי מנוי ומשחקים קרובים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://maccabi-cola.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://maccabi-cola.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://maccabi-cola.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -59,8 +59,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/management
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://maccabi-cola.zappy5.app/management
+- Endpoint: https://maccabi-cola.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -90,6 +90,6 @@ Sports Club
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://maccabi-cola.zappy5.app/sitemap.xml
+- Robots: https://maccabi-cola.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://maccabi-cola.zappy5.app/llms-full.txt
