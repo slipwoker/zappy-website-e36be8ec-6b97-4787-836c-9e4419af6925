@@ -7,49 +7,49 @@
 ## Pages
 
 ### בית
-https://-e36be8ec.zappy5.app
+https://example.com
 מכבי קולה מזמינה אתכם לעולם של כדורגל, תשוקה וגאווה. גלו את הסגל הרשמי, רכשו מנוי VIP והבטיחו מקום ביציע. החוויה מתחילה כאן!
 
 ### סגל
-https://-e36be8ec.zappy5.app/squad
+https://example.com/squad
 סגל מכבי קולה 2025 נחשף! עיינו ברשימת השחקנים המלאה עם מספרים ותפקידים. מי יוביל אותנו לניצחון הבא? היכנסו וגלו את הכוכבים.
 
 ### צוות ניהולי
-https://-e36be8ec.zappy5.app/management
+https://example.com/management
 צוות הניהול של מכבי קולה חושף את האסטרטגיה. הכירו את המאמנים, המנהלים והקפטן הראשון שעשו היסטוריה. הצצה נדירה לחדר ההלבשה!
 
 ### חברויות וחנות
-https://-e36be8ec.zappy5.app/memberships-store
+https://example.com/memberships-store
 בחרו חבילת מנוי Regular, Pro או VIP במכבי קולה והבטיחו כרטיס למשחקים הקרובים. חוויית צפייה משודרגת במטבעות וירטואליים. קנו עכשיו!
 
 ### משחקים קרובים
-https://-e36be8ec.zappy5.app/matches
+https://example.com/matches
 כל המשחקים הקרובים של מכבי קולה במקום אחד! תאריכים, יריבות וטיפים לניצחון. אל תפספסו אף בעיטה — בדקו את הסגל והזמינו כרטיסים עוד היום.
 
 ### טריוויה ורולטה
-https://-e36be8ec.zappy5.app/trivia-roulette
+https://example.com/trivia-roulette
 אתגר הטריוויה ורולטת השחקנים של מכבי קולה מחכים לכם! ענו על שאלות היסטוריה, גלגלו שחקן אקראי וזכו בפרס חולצה מפתיע. שחקו והרגישו את האדרנלין!
 
 ### צור קשר
-https://-e36be8ec.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על מנויים, משחקים או סגל מכבי קולה? צרו קשר עם הצוות שלנו וקבלו מענה מהיר. אנחנו כאן בשביל האוהדים — השאירו פרטים ונחזור אליכם!
 
 ### תודה רבה - פנייתך התקבלה | מכבי קולה
-https://-e36be8ec.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. צוות מכבי קולה קיבל את ההודעה ויחזור אליך בהקדם. ניתן להמשיך לגלוש באתר למידע על מכבי קולה כרטיסי מנוי ומשחקים קרובים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-e36be8ec.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-e36be8ec.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-e36be8ec.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -59,8 +59,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://-e36be8ec.zappy5.app/management
-- Endpoint: https://-e36be8ec.zappy5.app/api/email/contact-form
+- URL: https://example.com/management
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -90,6 +90,6 @@ Sports Club
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-e36be8ec.zappy5.app/sitemap.xml
-- Robots: https://-e36be8ec.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-e36be8ec.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
